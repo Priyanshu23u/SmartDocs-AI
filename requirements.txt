@@ -1,8 +1,15 @@
-streamlit
-python-dotenv
 langchain
+langchain-core
+langchain-community
 langchain-groq
 qdrant-client
 fastembed
 flashrank
+python-dotenv
 pymupdf
+pytesseract
+pdf2image
+Pillow
+tqdm
+streamlit
+uvicorn
